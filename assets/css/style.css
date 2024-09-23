@@ -1,0 +1,27 @@
+/* CSS RESET */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+.titulo {
+    font-size: x-large;
+    text-align: center;
+    color: #00369B;
+
+}
+
+.titulo2 {
+    font-size: large;
+}
+.navbar {
+    text-align: center;
+    align-items: center;
+}
+.img {
+    width: 5%;
+
+}
