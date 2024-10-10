@@ -21,7 +21,6 @@ O Real Events resolve o problema da dispersão de informações sobre eventos cu
  - Bootstrap
  - JavaScript
 ## Autores
-- Nome do Aluno 1 - GitHub - aluno1@senai.com.br
-- Nome do Aluno 2 - GitHub - aluno2@senai.com.br
+- João Pedro Pedroso - joazao-pedroso - joao.pedroso.senai@gmail.com
 ## Licença
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
